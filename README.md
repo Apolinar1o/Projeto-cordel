@@ -8,5 +8,6 @@ O que é cordel?
   acesse por aqui 👉 https://apolinar1o.github.io/Projeto-cordel/
   <li>O efeito parallax tem como base uma ilusão de ótica, pois dá a impressão ao olho humano de que objetos ou pessoas estão em movimento, mais perto ou afastados. Assim, esse recurso de webdesign causa a sensação de que imagens distantes se movimentam mais devagar do que os objetos que estão próximos.</>
 </ul> <br>
-![image](https://user-images.githubusercontent.com/120532863/218227536-c3ab9122-214b-4ac3-bcd8-783db19e9267.png) 
-![image](https://user-images.githubusercontent.com/120532863/218228026-c314f644-9abc-45df-90d1-49a93341d08f.png)
+
+![218225516-791682f8-c187-400f-8d02-582943304751](https://user-images.githubusercontent.com/120532863/218228065-be3b28c3-90ae-4bff-a3fb-958b5c89f9b2.png)
+![218225551-546b1274-4bfe-4323-9c29-f1322d56da45](https://user-images.githubusercontent.com/120532863/218228068-3a8d8a45-8663-495d-9516-61fac011637b.png)
