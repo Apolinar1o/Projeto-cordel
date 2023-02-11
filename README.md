@@ -9,5 +9,4 @@ O que é cordel?
   <li>O efeito parallax tem como base uma ilusão de ótica, pois dá a impressão ao olho humano de que objetos ou pessoas estão em movimento, mais perto ou afastados. Assim, esse recurso de webdesign causa a sensação de que imagens distantes se movimentam mais devagar do que os objetos que estão próximos.</>
 </ul>
 ![image](https://user-images.githubusercontent.com/120532863/218227536-c3ab9122-214b-4ac3-bcd8-783db19e9267.png) 
-![image](https://user-images.githubusercontent.com/120532863/218227650-a64a2e13-fcc5-40b0-bb4c-358716e718f4.png) 
-
+![image](https://user-images.githubusercontent.com/120532863/218228026-c314f644-9abc-45df-90d1-49a93341d08f.png)
